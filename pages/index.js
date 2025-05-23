@@ -1,4 +1,4 @@
-import LeadGenROICalculator from "@/components/LeadGenROICalculator";
+import LeadGenROICalculator from "../components/LeadGenROICalculator";
 
 export default function Home() {
   return <LeadGenROICalculator />;
